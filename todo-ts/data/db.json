@@ -1,0 +1,36 @@
+{
+  "list": [
+    {
+      "id": 12,
+      "title": "shopping",
+      "todos": [
+        {
+          "id": 1,
+          "name": "хлеб",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "вода",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "home",
+      "todos": [
+        {
+          "id": 1,
+          "name": "встать",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "умыться",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}

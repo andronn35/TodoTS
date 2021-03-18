@@ -1,0 +1,27 @@
+.taskString {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.TodoItem li {
+  list-style: none;
+}
+
+.cross {
+  color: rgb(170, 32, 32);
+}
+
+.cross:hover {
+  cursor: pointer;
+}
+
+.done {
+  text-decoration-line: line-through;
+  cursor: pointer;
+}
+
+.undone {
+  text-decoration-line: none;
+  cursor: pointer;
+}
